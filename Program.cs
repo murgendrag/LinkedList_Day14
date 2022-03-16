@@ -14,7 +14,7 @@ namespace Linkedlist
             linkedlist.Add(30);
             linkedlist.Add(70);
             linkedlist.Display();
-           
+            linkedlist.InsertAtParticularPosition(1, 12);
         }
     }
 }
